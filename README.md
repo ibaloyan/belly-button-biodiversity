@@ -1,5 +1,7 @@
 # belly-button-biodiversity
- Interactive Dashboard to explore the Belly Button Biodiversity Dataset. Technologies=> JavaScript, Plotly.js, Flask, Heroku, SQLite, Postgres DB
+ Interactive Dashboard to explore the Belly Button Biodiversity Dataset. 
+ Deployed to Heroku: https://dashboard.heroku.com/apps/biodiversity-ib
+ Technologies=> JavaScript, Plotly.js, Flask, SQLite, Heroku
 
 # Biodiversity_InteractveDashboard
 Interactive Dashboard to explore the Belly Button Biodiversity Dataset
